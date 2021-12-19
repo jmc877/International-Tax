@@ -1,0 +1,86 @@
+
+%! program = pdflatex
+\documentclass[11pt,a4paper]{memoir} % for a long document
+%\documentclass[11pt,a4paper,article]{memoir} % for a short document
+\setsecnumdepth{subsection} %turns on subsection numbering
+\setcounter{tocdepth}{2}
+\newcommand{\margit}[1]{\marginpar{\scriptsize{#1}}}
+\newcommand{\intro}[1]{\emph{#1} \newline}
+\newcommand{\exam}[2]{\bigskip  \rule{12cm}{.3pt} \\  \emph{\textsc{{#1}}}  \\  \\ {#2} \\ \smallskip  \rule{12cm}{.3pt}   \bigskip \\ }
+\newcommand{\caseart}[3]{\begin{center} \rule{3cm}{.3pt} \\ \smallskip \textbf{#1} \\ {#2}  \end{center} \textsc{#3}}
+\newcommand{\revrul}[2]{\begin{center} \rule{3cm}{.3pt} \\ \smallskip \textbf{#1} \\ {#2}  \end{center}}
+\newenvironment{code}[3]{\begin{description}  \item[\emph{Code}: \hspace{9ex}{#1}] \item[\emph{Regulations}:\hspace{3ex}{#2}] \item[\emph{Treaty}:\hspace{9ex}{#3}] \end{description}}{}
+\newenvironment{select}{}{\hspace{\stretch{1}}\maltese \smallskip  \begin{center} \rule{3cm}{.3pt} \end{center} }
+\newcommand{\crt}[3]{\begin{tabular}{l p{10cm}} Code: &{#1}\\ Regulations:&{#2}\\ Treaty: &{#3} \end{tabular} \newline}
+\newcommand{\codereg}[2]{\begin{tabular}{l p{10cm}} Code: &{#1}\\ Regulations:&{#2}\end{tabular}}
+\newcommand{\irc}[1]{\begin{tabular}{l p{10cm}} Code: &{#1}\end{tabular}}
+\newcommand{\del}{*\_*\_*}
+\renewcommand{\contentsname}{Table of Contents}  
+%\usepackage[parfill]{parskip}    
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{amsmath,amssymb}
+\usepackage{hyperref} 
+\usepackage{eurosym}
+
+
+
+% See the ``Memoir customise'' template for some common customizations
+% Don't forget to read the Memoir manual: memman.pdf
+
+
+\title{International Taxation: \\ A Transactional Approach}
+\author{Jeffrey M. Col\'on}
+\date{Last Revision:  Mar. 16, 2017} % Delete this line to display the current date
+
+
+%%% BEGIN DOCUMENT
+\begin{document} 
+\makepagestyle{plain}
+\makeevenfoot{plain}{\textit{Draft}}{\textit{International Tax}}{\textit{3/5/17}}
+\makeoddfoot{plain}{\textit{Draft}}{\textit{International Tax}}{\textit{3/5/17}}
+	\frontmatter
+		\maketitle
+			\newpage
+\begin{center} 
+\tableofcontents* % the asterisk means that the contents itself isn't put into the ToC
+\end{center}
+	\newpage
+	\input{preface_Jan9_17}
+	
+\mainmatter
+		\input{Introduction_Jan10_17}
+		\input{residence_1_Jan9_17}
+		\input{residence_2_Jan13_17}
+		\input{residence_3_Jan13_17}
+		\input{source_IntDiv_Jan17_17}
+		\input{source_Services_Jan21_17}
+		\input{source_Royalties_Jan21_17}
+		\input{source_SaleProperty_Jan27_17}
+		\input{tradebusiness_Feb14_17}
+		\input{Firpta_Feb22_17}
+		\input{EstripLOB_Mar5_17}
+		\input{IntTaxtheory_Mar17_17}
+		\input{USCit_SpecialRules_Mar24_17}
+		\input{FTC_Mar24_17}
+		\input{CFC_Apr1_17}
+		\input{PFIC}
+		\input{FTC_Limit}
+
+\end{document}
+\input{FTC_902_Apr1_17}
+
+
+%\end{document} 
+
+
+
+
+
+
+
+
+
+
+
+
