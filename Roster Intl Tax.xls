@@ -1,0 +1,119 @@
+<table>
+	<tr>
+		<td colspan="6" style="text-align:left;color:#FFFFFF;background-color:#940029;font-weight:bold;font-size:large;vertical-align:middle;">Student Roster</td>
+	</tr><tr>
+		<td colspan="3" style="text-align:left;background-color:#FFFFFF;font-weight:bold;">Total Students:</td><td colspan="4" style="text-align:left;background-color:#FFFFFF;">16</td>
+	</tr><tr>
+		<td colspan="3" style="text-align:left;background-color:#FFFFFF;font-weight:bold;">Semester:</td><td colspan="4" style="text-align:left;background-color:#FFFFFF;">Spring 2022</td>
+	</tr><tr>
+		<td colspan="3" style="text-align:left;background-color:#FFFFFF;font-weight:bold;">CRN:</td><td colspan="4" style="text-align:left;background-color:#FFFFFF;">38454</td>
+	</tr><tr>
+		<td colspan="3" style="text-align:left;background-color:#FFFFFF;font-weight:bold;">Course ID:</td><td colspan="4" style="text-align:left;background-color:#FFFFFF;">ITGL0357001</td>
+	</tr><tr>
+		<td colspan="3" style="text-align:left;background-color:#FFFFFF;font-weight:bold;">Course Title:</td><td colspan="4" style="text-align:left;background-color:#FFFFFF;">International Taxation</td>
+	</tr><tr>
+		<td colspan="3" style="text-align:left;background-color:#FFFFFF;font-weight:bold;">Instructor(s):</td><td colspan="4" style="text-align:left;background-color:#FFFFFF;">Colon Jeffrey</td>
+	</tr><tr>
+		<td colspan="6" style="background-color:#FFFFFF;"> </td>
+	</tr><tr style="background-color:#FFFFFF;color:#0071BD;">
+		<th scope="col" style="background-color:#C5D8E2;text-align:left;">
+                            <span id="lblPhoto" style="color:#0071BD;">Photo</span>
+                        </th><th scope="col" style="background-color:#C5D8E2;text-align:left;">Last Name</th><th scope="col" style="background-color:#C5D8E2;text-align:left;">First Name</th><th scope="col" style="background-color:#C5D8E2;text-align:left;">E-mail Address</th><th scope="col" style="background-color:#C5D8E2;text-align:left;">Degree</th><th scope="col" style="background-color:#C5D8E2;text-align:left;">Grad Year</th>
+	</tr><tr style="background-color:White;">
+		<td style="width:82px;background-color:#F7F6F3;height:92px;">
+                            <img style="border-style:none" alt="" src="https://web.v2.go.lawnet.fordham.edu/studentphotos/20190731033222803.jpg" height="90" width="80" />
+                        </td><td style="background-color:#F7F6F3;height:92px;">Alves</td><td style="background-color:#F7F6F3;height:92px;">Dissara</td><td style="background-color:#F7F6F3;height:92px;">
+                            <a id="flsEmailAddress" href="Mailto:dalves1@fordham.edu" style="color: #0071BD">dalves1@fordham.edu</a>
+                        </td><td style="background-color:#F7F6F3;height:92px;">JD</td><td style="background-color:#F7F6F3;height:92px;">Spring 2022</td>
+	</tr><tr style="background-color:White;">
+		<td style="width:82px;background-color:#EFEFEF;height:92px;">
+                            <img style="border-style:none" alt="" src="https://web.v2.go.lawnet.fordham.edu/studentphotos/20200910033030173.jpg" height="90" width="80" />
+                        </td><td style="background-color:#EFEFEF;height:92px;">Deng</td><td style="background-color:#EFEFEF;height:92px;">Jun</td><td style="background-color:#EFEFEF;height:92px;">
+                            <a id="flsEmailAddress" href="Mailto:jdeng8@fordham.edu" style="color: #0071BD">jdeng8@fordham.edu</a>
+                        </td><td style="background-color:#EFEFEF;height:92px;">LLM</td><td style="background-color:#EFEFEF;height:92px;">Spring 2022</td>
+	</tr><tr style="background-color:White;">
+		<td style="width:82px;background-color:#F7F6F3;height:92px;">
+                            <img style="border-style:none" alt="" src="https://web.v2.go.lawnet.fordham.edu/studentphotos/20200821033329773.jpg" height="90" width="80" />
+                        </td><td style="background-color:#F7F6F3;height:92px;">Ehrlich</td><td style="background-color:#F7F6F3;height:92px;">Rachel</td><td style="background-color:#F7F6F3;height:92px;">
+                            <a id="flsEmailAddress" href="Mailto:rehrlich1@fordham.edu" style="color: #0071BD">rehrlich1@fordham.edu</a>
+                        </td><td style="background-color:#F7F6F3;height:92px;">JD</td><td style="background-color:#F7F6F3;height:92px;">Spring 2023</td>
+	</tr><tr style="background-color:White;">
+		<td style="width:82px;background-color:#EFEFEF;height:92px;">
+                            <img style="border-style:none" alt="" src="https://web.v2.go.lawnet.fordham.edu/studentphotos/20190801033211080.jpg" height="90" width="80" />
+                        </td><td style="background-color:#EFEFEF;height:92px;">Heim</td><td style="background-color:#EFEFEF;height:92px;">Anna</td><td style="background-color:#EFEFEF;height:92px;">
+                            <a id="flsEmailAddress" href="Mailto:aheim1@fordham.edu" style="color: #0071BD">aheim1@fordham.edu</a>
+                        </td><td style="background-color:#EFEFEF;height:92px;">JD</td><td style="background-color:#EFEFEF;height:92px;">Spring 2022</td>
+	</tr><tr style="background-color:White;">
+		<td style="width:82px;background-color:#F7F6F3;height:92px;">
+                            <img style="border-style:none" alt="" src="https://web.v2.go.lawnet.fordham.edu/studentphotos/20210629034641863.jpg" height="90" width="80" />
+                        </td><td style="background-color:#F7F6F3;height:92px;">Iragorri</td><td style="background-color:#F7F6F3;height:92px;">Julian</td><td style="background-color:#F7F6F3;height:92px;">
+                            <a id="flsEmailAddress" href="Mailto:jiragorri1@fordham.edu" style="color: #0071BD">jiragorri1@fordham.edu</a>
+                        </td><td style="background-color:#F7F6F3;height:92px;">LLM</td><td style="background-color:#F7F6F3;height:92px;">Spring 2022</td>
+	</tr><tr style="background-color:White;">
+		<td style="width:82px;background-color:#EFEFEF;height:92px;">
+                            <img style="border-style:none" alt="" src="https://web.v2.go.lawnet.fordham.edu/studentphotos/20200804033330843.jpg" height="90" width="80" />
+                        </td><td style="background-color:#EFEFEF;height:92px;">Kim</td><td style="background-color:#EFEFEF;height:92px;">Seo Kyung</td><td style="background-color:#EFEFEF;height:92px;">
+                            <a id="flsEmailAddress" href="Mailto:skim340@fordham.edu" style="color: #0071BD">skim340@fordham.edu</a>
+                        </td><td style="background-color:#EFEFEF;height:92px;">JD</td><td style="background-color:#EFEFEF;height:92px;">Spring 2023</td>
+	</tr><tr style="background-color:White;">
+		<td style="width:82px;background-color:#F7F6F3;height:92px;">
+                            <img style="border-style:none" alt="" src="https://web.v2.go.lawnet.fordham.edu/studentphotos/20190814033331233.jpg" height="90" width="80" />
+                        </td><td style="background-color:#F7F6F3;height:92px;">Li</td><td style="background-color:#F7F6F3;height:92px;">Jiadong</td><td style="background-color:#F7F6F3;height:92px;">
+                            <a id="flsEmailAddress" href="Mailto:jli556@fordham.edu" style="color: #0071BD">jli556@fordham.edu</a>
+                        </td><td style="background-color:#F7F6F3;height:92px;">JD</td><td style="background-color:#F7F6F3;height:92px;">Spring 2023</td>
+	</tr><tr style="background-color:White;">
+		<td style="width:82px;background-color:#EFEFEF;height:92px;">
+                            <img style="border-style:none" alt="" src="https://web.v2.go.lawnet.fordham.edu/studentphotos/20200804033356620.jpg" height="90" width="80" />
+                        </td><td style="background-color:#EFEFEF;height:92px;">Lynch</td><td style="background-color:#EFEFEF;height:92px;">Robert</td><td style="background-color:#EFEFEF;height:92px;">
+                            <a id="flsEmailAddress" href="Mailto:rlynch28@fordham.edu" style="color: #0071BD">rlynch28@fordham.edu</a>
+                        </td><td style="background-color:#EFEFEF;height:92px;">JD</td><td style="background-color:#EFEFEF;height:92px;">Spring 2022</td>
+	</tr><tr style="background-color:White;">
+		<td style="width:82px;background-color:#F7F6F3;height:92px;">
+                            <img style="border-style:none" alt="" src="https://web.v2.go.lawnet.fordham.edu/studentphotos/20190815033243730.jpg" height="90" width="80" />
+                        </td><td style="background-color:#F7F6F3;height:92px;">Masuda</td><td style="background-color:#F7F6F3;height:92px;">Luke</td><td style="background-color:#F7F6F3;height:92px;">
+                            <a id="flsEmailAddress" href="Mailto:lmasuda@fordham.edu" style="color: #0071BD">lmasuda@fordham.edu</a>
+                        </td><td style="background-color:#F7F6F3;height:92px;">JD</td><td style="background-color:#F7F6F3;height:92px;">Spring 2022</td>
+	</tr><tr style="background-color:White;">
+		<td style="width:82px;background-color:#EFEFEF;height:92px;">
+                            <img style="border-style:none" alt="" src="https://web.v2.go.lawnet.fordham.edu/studentphotos/20210107034343803.jpg" height="90" width="80" />
+                        </td><td style="background-color:#EFEFEF;height:92px;">N&#39;Sangou Oumba</td><td style="background-color:#EFEFEF;height:92px;">Lyticia</td><td style="background-color:#EFEFEF;height:92px;">
+                            <a id="flsEmailAddress" href="Mailto:lnsangououmba@fordham.edu" style="color: #0071BD">lnsangououmba@fordham.edu</a>
+                        </td><td style="background-color:#EFEFEF;height:92px;">LLM</td><td style="background-color:#EFEFEF;height:92px;">Spring 2022</td>
+	</tr><tr style="background-color:White;">
+		<td style="width:82px;background-color:#F7F6F3;height:92px;">
+                            <img style="border-style:none" alt="" src="https://web.v2.go.lawnet.fordham.edu/studentphotos/20180809033124707.jpg" height="90" width="80" />
+                        </td><td style="background-color:#F7F6F3;height:92px;">Rosen</td><td style="background-color:#F7F6F3;height:92px;">Katie</td><td style="background-color:#F7F6F3;height:92px;">
+                            <a id="flsEmailAddress" href="Mailto:krosen3@fordham.edu" style="color: #0071BD">krosen3@fordham.edu</a>
+                        </td><td style="background-color:#F7F6F3;height:92px;">JD</td><td style="background-color:#F7F6F3;height:92px;">Spring 2022</td>
+	</tr><tr style="background-color:White;">
+		<td style="width:82px;background-color:#EFEFEF;height:92px;">
+                            <img style="border-style:none" alt="" src="https://web.v2.go.lawnet.fordham.edu/studentphotos/20190802033237320.jpg" height="90" width="80" />
+                        </td><td style="background-color:#EFEFEF;height:92px;">Slaton</td><td style="background-color:#EFEFEF;height:92px;">Carrie</td><td style="background-color:#EFEFEF;height:92px;">
+                            <a id="flsEmailAddress" href="Mailto:cslaton@fordham.edu" style="color: #0071BD">cslaton@fordham.edu</a>
+                        </td><td style="background-color:#EFEFEF;height:92px;">JD</td><td style="background-color:#EFEFEF;height:92px;">Spring 2022</td>
+	</tr><tr style="background-color:White;">
+		<td style="width:82px;background-color:#F7F6F3;height:92px;">
+                            <img style="border-style:none" alt="" src="https://web.v2.go.lawnet.fordham.edu/studentphotos/20200804033322923.jpg" height="90" width="80" />
+                        </td><td style="background-color:#F7F6F3;height:92px;">Sullivan</td><td style="background-color:#F7F6F3;height:92px;">Kurtland</td><td style="background-color:#F7F6F3;height:92px;">
+                            <a id="flsEmailAddress" href="Mailto:ksullivan102@fordham.edu" style="color: #0071BD">ksullivan102@fordham.edu</a>
+                        </td><td style="background-color:#F7F6F3;height:92px;">JD</td><td style="background-color:#F7F6F3;height:92px;">Spring 2023</td>
+	</tr><tr style="background-color:White;">
+		<td style="width:82px;background-color:#EFEFEF;height:92px;">
+                            <img style="border-style:none" alt="" src="https://web.v2.go.lawnet.fordham.edu/studentphotos/20200804033342093.jpg" height="90" width="80" />
+                        </td><td style="background-color:#EFEFEF;height:92px;">Wang</td><td style="background-color:#EFEFEF;height:92px;">Mengjia</td><td style="background-color:#EFEFEF;height:92px;">
+                            <a id="flsEmailAddress" href="Mailto:mwang205@fordham.edu" style="color: #0071BD">mwang205@fordham.edu</a>
+                        </td><td style="background-color:#EFEFEF;height:92px;">JD</td><td style="background-color:#EFEFEF;height:92px;">Spring 2023</td>
+	</tr><tr style="background-color:White;">
+		<td style="width:82px;background-color:#F7F6F3;height:92px;">
+                            <img style="border-style:none" alt="" src="https://web.v2.go.lawnet.fordham.edu/studentphotos/20200804033335970.jpg" height="90" width="80" />
+                        </td><td style="background-color:#F7F6F3;height:92px;">Wang</td><td style="background-color:#F7F6F3;height:92px;">Daobo</td><td style="background-color:#F7F6F3;height:92px;">
+                            <a id="flsEmailAddress" href="Mailto:dwang143@fordham.edu" style="color: #0071BD">dwang143@fordham.edu</a>
+                        </td><td style="background-color:#F7F6F3;height:92px;">JD</td><td style="background-color:#F7F6F3;height:92px;">Spring 2023</td>
+	</tr><tr style="background-color:White;">
+		<td style="width:82px;background-color:#EFEFEF;height:92px;">
+                            <img style="border-style:none" alt="" src="https://web.v2.go.lawnet.fordham.edu/studentphotos/20190731033221417.jpg" height="90" width="80" />
+                        </td><td style="background-color:#EFEFEF;height:92px;">Yun</td><td style="background-color:#EFEFEF;height:92px;">Yvette</td><td style="background-color:#EFEFEF;height:92px;">
+                            <a id="flsEmailAddress" href="Mailto:yyun2@fordham.edu" style="color: #0071BD">yyun2@fordham.edu</a>
+                        </td><td style="background-color:#EFEFEF;height:92px;">JD</td><td style="background-color:#EFEFEF;height:92px;">Spring 2022</td>
+	</tr>
+</table>
